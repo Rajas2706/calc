@@ -28,10 +28,10 @@ A full-fledged **Scientific Calculator** developed in **C** using the **Windows 
 
 ## 🗂️ Project Structure
 
-📦 calculator_project/
-├── 📄 b23ch1039_b23me1016_b23cs1028_main.c         # GUI and event handling with WinAPI
-├── 📄 b23ch1039_b23me1016_b23cs1028_functions.c    # Logic for all calculations
-├── 📄 b23ch1039_b23me1016_b23cs1028_functions.h    # Global variables & function declarations
-├── 📄 history.txt                                  # Stores all past calculation results
-└── 📄 README.md                                     # Project documentation (you're here!)
+#📦 calculator_project/
+-├── 📄 b23ch1039_b23me1016_b23cs1028_main.c         # GUI and event handling with WinAPI
+-├── 📄 b23ch1039_b23me1016_b23cs1028_functions.c    # Logic for all calculations
+-├── 📄 b23ch1039_b23me1016_b23cs1028_functions.h    # Global variables & function declarations
+-├── 📄 history.txt                                  # Stores all past calculation results
+-└── 📄 README.md                                     # Project documentation (you're here!)
 
