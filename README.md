@@ -23,7 +23,7 @@ A full-fledged **Scientific Calculator** developed in **C** using the **Windows 
 ## 📸 UI Preview
 
 <p align="center">
-  <img src="Screenshot.png" alt="Calculator UI" width="400"/>
+  <img src="https://github.com/Rajas2706/calc/blob/main/Screenshot%20.png" alt="Calculator UI" width="400"/>
 </p>
 
 
