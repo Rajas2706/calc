@@ -26,4 +26,12 @@ A full-fledged **Scientific Calculator** developed in **C** using the **Windows 
   <img src="https://github.com/Rajas2706/calc/blob/main/Screenshot%20.png" alt="Calculator UI" width="400"/>
 </p>
 
+## 🗂️ Project Structure
+
+📦 calculator_project/
+├── 📄 b23ch1039_b23me1016_b23cs1028_main.c         # GUI and event handling with WinAPI
+├── 📄 b23ch1039_b23me1016_b23cs1028_functions.c    # Logic for all calculations
+├── 📄 b23ch1039_b23me1016_b23cs1028_functions.h    # Global variables & function declarations
+├── 📄 history.txt                                  # Stores all past calculation results
+└── 📄 README.md                                     # Project documentation (you're here!)
 
