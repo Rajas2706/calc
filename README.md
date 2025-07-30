@@ -35,3 +35,18 @@ A full-fledged **Scientific Calculator** developed in **C** using the **Windows 
 - ├── 📄 history.txt                                  `# Stores all past calculation results`
 - └── 📄 README.md                                     `# Project documentation (you're here!)`
 
+---
+
+## 🚀 How to Run
+
+### 🧱 Prerequisites
+
+- OS: Windows 🪟
+- Compiler: [MinGW](https://www.mingw-w64.org/) or any that supports `WinAPI`
+
+### 🔧 Build and Run
+
+```bash
+gcc b23ch1039_b23me1016_b23cs1028_main.c b23ch1039_b23me1016_b23cs1028_functions.c -o Calculator.exe -lgdi32 -luser32
+./Calculator.exe
+
